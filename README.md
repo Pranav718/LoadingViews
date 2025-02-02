@@ -1,2 +1,3 @@
-# LoadingViews
-sharing some loading views that I find cool
+# Loading Views
+
+Sharing some loading views that I find cool, made in SwiftUI
